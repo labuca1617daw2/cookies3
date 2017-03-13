@@ -13,11 +13,11 @@ and open the template in the editor.
         <?php 
             echo "Afegint Cookies<br>"; 
             echo "Sóc el desenvolupador labuca1617daw2"; 
-            setcookie("nom", "Jaume Pons", time()+3600, "/", "", 0); 
-            setcookie("edat", "20", time()+3600, "/", "", 0); 
-            setcookie("cicle", "DAW", time()+3600, "/", "", 0); 
-            setcookie("curs", "2n", time()+3600, "/", "", 0); 
-            setcookie("any", "2016­2017", time()+3600, "/", "", 0);            
+            setcookie("nom", "Jaume Pons",time()+3600, "/", "", 0); 
+            setcookie("edat", "20",time()+3600, "/", "", 0); 
+            setcookie("cicle", "DAW",time()+3600, "/", "", 0); 
+            setcookie("curs", "2n",time()+3600, "/", "", 0); 
+            setcookie("any", "2016­2017",time()+3600, "/", "", 0);            
         ?>  
     </body>    
 </html> 
